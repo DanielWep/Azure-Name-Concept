@@ -1,3 +1,6 @@
+ISO 3166-1
+Alpha-3
+
 #Europe
 
 West Europe = WEU
@@ -6,23 +9,87 @@ North Europe = NEU
 Norway West = NORW
 Norway East = NORE
 
-UK South = UKS
-UK West = UKW
+UK South = GBRS
+UK West = GBRW
 
-France Central = FRC
-France South = FRS
+France Central = FRAC
+France South = FRAS
 
-Spain Central = ESC
+Spain Central = ESPC
 
-Switzerland West = CHW
-Switzerland North = CHN
+Switzerland West = CHEW
+Switzerland North = CHEN
 
-Italy North = ITN
+Italy North = ITAN
 
 Germany West = GERW
 Gernmany North = GERN
-Germany North-East = GERNE
+Germany Northeast = GERNE
 Germany Central = GERC
 
 
 
+#APAC
+
+China North = CHNN
+China North 2 = CHNN2
+China East  = CHNE
+China East 2 = CHNE2
+
+Korea Central = KORC
+Korea South = KORS
+
+Japan East = JPNE
+Japan West = JPNW
+
+East Asia = EAS
+Southeast Asia = SEAS
+
+West India = WIND
+Central India = CIND
+South India = SIND
+
+Australia East = AUSE
+Australia Central = AUSC
+Australia Central 2 = AUSC2
+Australia Southeast = AUSSE
+
+New Zealand North = NZLN
+
+Israel Central = ISRC
+
+Qatar Central = QATC
+
+UAE Central = UAEC
+UAE North = UAEN
+
+South Africa North = ZAFN
+South Africa West = ZAFW
+
+
+
+#North America
+
+Canada East = CANE
+Canada Central = CANC
+
+Central US = CUSA
+North Central US = NCUSA
+West Central US = WCUSA
+West US = WUSA
+West US 2 = WUSA2
+South Central US = SCUSA
+East US = EUSA
+East US 2 = EUSA2
+
+US Gov Arizona = USAGAZ
+US Gov Texas = USAGTX
+US Gov Virginia = USAGVA
+US DoD Central = USADC
+US DoD East = USADE
+
+Mexico Central = MEXC
+
+#South America
+
+Brazil South = BRAS
