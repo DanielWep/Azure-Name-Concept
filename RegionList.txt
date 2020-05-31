@@ -3,8 +3,8 @@ Alpha-3
 
 #Europe
 
-West Europe = WEU
-North Europe = NEU
+West Europe = EUW
+North Europe = EUN
 
 Norway West = NORW
 Norway East = NORE
@@ -45,9 +45,9 @@ Japan West = JPNW
 East Asia = EAS
 Southeast Asia = SEAS
 
-West India = WIND
-Central India = CIND
-South India = SIND
+West India = INDW
+Central India = INDC
+South India = INDS
 
 Australia East = AUSE
 Australia Central = AUSC
@@ -73,14 +73,14 @@ South Africa West = ZAFW
 Canada East = CANE
 Canada Central = CANC
 
-Central US = CUSA
-North Central US = NCUSA
-West Central US = WCUSA
-West US = WUSA
-West US 2 = WUSA2
-South Central US = SCUSA
-East US = EUSA
-East US 2 = EUSA2
+Central US = USAC
+North Central US = USANC
+West Central US = USAWC
+West US = USAW
+West US 2 = USAW2
+South Central US = USASC
+East US = USAE
+East US 2 = USAE2
 
 US Gov Arizona = USAGAZ
 US Gov Texas = USAGTX
