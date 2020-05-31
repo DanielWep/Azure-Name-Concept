@@ -1,0 +1,28 @@
+#Europe
+
+West Europe = WEU
+North Europe = NEU
+
+Norway West = NORW
+Norway East = NORE
+
+UK South = UKS
+UK West = UKW
+
+France Central = FRC
+France South = FRS
+
+Spain Central = ESC
+
+Switzerland West = CHW
+Switzerland North = CHN
+
+Italy North = ITN
+
+Germany West = GERW
+Gernmany North = GERN
+Germany North-East = GERNE
+Germany Central = GERC
+
+
+
