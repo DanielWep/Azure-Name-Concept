@@ -1,0 +1,22 @@
+#Resources
+
+Resource group = RG
+
+Virtual network = VNET
+Virtual machine = VM
+
+Network interface = NIC
+Public IP address = PIP
+Network security group = NSG
+Application security group = ASG
+
+Load balancer = LB
+Availability set = AVS
+Availability zone = AVZ
+
+Virtual network gateway = VNG
+Local network gateway = LNG
+Connection = CON
+
+Storage account = SA
+(Virtual) Disk = VD 
