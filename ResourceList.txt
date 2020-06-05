@@ -19,4 +19,4 @@ Local network gateway = LNG
 Connection = CON
 
 Storage account = SA
-(Virtual) Disk = VD 
+Disk = DSK
