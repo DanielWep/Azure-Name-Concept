@@ -3,7 +3,7 @@
 ## How to use this name concept:
 
 ```
-<Region>-<Tag>-<Resource>-<Description>
+[Region]-[Tag]-[Resource]-[Description]
 ```
 
 ### Region
@@ -17,7 +17,7 @@
 ## Example
 
 ```
-EUW-DW-VNET-<Description>
+EUW-DW-VNET-DMZ-Inside
 ```
 
 
