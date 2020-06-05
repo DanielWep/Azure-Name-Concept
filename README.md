@@ -5,7 +5,7 @@ Version 1.0
 ## How to use this name concept:
 
 ```
-[Tag]-[Region]-[Resource]-[Description]
+[Tag]-[Region]-[Resource][Count]-[Description]
 ```
 
 ### Tag
@@ -18,7 +18,11 @@ Region is where your IaaS resources are deployed. See the region list for the sh
 
 ### Resource
 
-Ressourcen sind Azure Ressource wie virtuelles Netzwerk oder Netzwerksicherheitsgruppe. In der Ressourcenliste finden Sie kurze Ressourcencodes.
+Resources are Azure resource like virtual network or network security group. In the resource list you will find short resource codes.
+
+### Count
+
+Count is the number for this resource but it's optional.
 
 ### Description
 
@@ -30,7 +34,7 @@ Description is a description for this object, e.g. DMZ-Inside describes the func
 Object name for a new virtual network in region West Europe.
 
 ```
-DW-EUW-VNET-DMZ-Inside
+DW-EUW-VNET01-DMZ-Inside
 ```
 
 # 
