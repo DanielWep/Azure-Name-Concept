@@ -4,6 +4,7 @@ Resource group = RG
 
 Virtual network = VNET
 Virtual machine = VM
+Subnet = SNET
 
 Network interface = NIC
 Public IP address = PIP
@@ -18,5 +19,10 @@ Virtual network gateway = VNG
 Local network gateway = LNG
 Connection = CON
 
+Traffic Manager = TM
+
 Storage account = SA
 Disk = DSK
+
+Key vault = KEYV
+
